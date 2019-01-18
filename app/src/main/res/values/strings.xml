@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginDemo</string>
+    <string name="app_title">Mi Hola Mundo</string>
+    <string name="app_text">El texto de la aplicacion</string>
+    <string name="app_welcome">Bienvenido</string>
+    <string name="app_enter">Acceso</string>
+    <string name="login_enter">Logear</string>
+    <string name="login_name">Nombre</string>
+    <string name="login_password">Contraseña</string>
+    <string name="message_index">Indice de la aplicación</string>
+</resources>
